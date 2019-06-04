@@ -1,4 +1,3 @@
-# Dockerfile with tensorflow gpu support on python3, opencv3.3
 FROM tensorflow/tensorflow:latest-py3
 MAINTAINER Matej Turay "matej.turay@gmail.com"
 
